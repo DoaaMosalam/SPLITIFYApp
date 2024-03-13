@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SPLITIFY app</string>
+    <string name="monthly_expenses_tracker">Monthly Expenses Tracker</string>
+    <string name="past_price">Past Price</string>
+    <string name="doaa_mosallam_0">Doaa Mosallam: 0</string>
+    <string name="show_expenses">Show Expenses</string>
+    <string name="h">h</string>
+    <string name="spent_by">Spent by:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="expense_history">Expense History</string>
+</resources>
